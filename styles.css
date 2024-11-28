@@ -189,6 +189,7 @@ body{
 .sendbtn{
     width: 7rem;
     background: yellowgreen;
+    border: none;
     border-radius: 7px;
     font-size: 1.3rem;
     color: black;
